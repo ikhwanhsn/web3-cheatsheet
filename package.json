@@ -1,7 +1,4 @@
 {
-  "devDependencies": {
-    "@types/node": "^20.11.24"
-  },
   "name": "web3cheatsheet",
   "version": "1.0.0",
   "description": "a cheatsheet for web3 developer",
