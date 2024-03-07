@@ -1,5 +1,5 @@
 {
-  "name": "format-crypto",
+  "name": "format-crypto-number",
   "version": "1.0.0",
   "description": "format crypto",
   "main": "index.ts",
