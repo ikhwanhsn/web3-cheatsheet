@@ -1,0 +1,25 @@
+{
+  "name": "format-crypto",
+  "version": "1.0.0",
+  "description": "format crypto",
+  "main": "index.ts",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ikhwanhsn/web3-cheatsheet.git"
+  },
+  "keywords": [
+    "crypto"
+  ],
+  "author": "ikhwan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ikhwanhsn/web3-cheatsheet/issues"
+  },
+  "homepage": "https://github.com/ikhwanhsn/web3-cheatsheet#readme",
+  "devDependencies": {
+    "@types/node": "^20.11.25"
+  }
+}
